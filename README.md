@@ -1,16 +1,40 @@
-## Hi there 👋
+# Sumit 🚀
 
-<!--
-**Bat-Noir/Bat-Noir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building my own music streaming app (Ant Tunes) because Spotify annoyed me.
 
-Here are some ideas to get you started:
+🎧 Music + Code + Chaos  
+⚡ Vibe coder (but ships real apps)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Currently Working On
+- 🎧 Ant Tunes — music streaming app (Spotify alternative)
+- 🔌 Backend APIs (JioSaavn + NewPipe integration)
+- ⚡ Improving performance & UI
+
+---
+
+## ⚡ What I'm Building
+- Custom music streaming ecosystem
+- Scalable backend for fast search & streaming
+- More experimental projects coming soon...
+
+---
+
+## 🛠 Tech Stack
+- Kotlin / Android
+- Node.js
+- APIs / Backend
+
+---
+
+## 🌐 Projects
+- 🎧 Ant Tunes — fast, lightweight, no-ads music app
+
+🧠 More projects coming soon...
+
+---
+
+## 📫 Reach Me
+- Reddit: https://www.reddit.com/user/Bat-Noir/
+- GitHub: https://github.com/Bat-Noir
