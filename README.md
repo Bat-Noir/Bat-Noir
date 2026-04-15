@@ -38,5 +38,5 @@ Building my own music streaming app (Ant Tunes) because Spotify annoyed me.
 ⭐ If you like my work, consider following — more projects dropping soon.
 
 ## 📫 Reach Me
-- Reddit: u/Bat-Noir
+- Reddit: https://reddit.com/user/Bat-Noir
 - GitHub: https://github.com/Bat-Noir
