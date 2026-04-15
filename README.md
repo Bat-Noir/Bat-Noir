@@ -29,12 +29,14 @@ Building my own music streaming app (Ant Tunes) because Spotify annoyed me.
 ---
 
 ## 🌐 Projects
-- 🎧 Ant Tunes — fast, lightweight, no-ads music app
+- 🎧 [Ant Tunes](https://github.com/Bat-Noir/ant-tunes-backend) — fast, lightweight, no-ads music app
 
 🧠 More projects coming soon...
 
 ---
 
+⭐ If you like my work, consider following — more projects dropping soon.
+
 ## 📫 Reach Me
-- Reddit: https://www.reddit.com/user/Bat-Noir/
+- Reddit: u/Bat-Noir
 - GitHub: https://github.com/Bat-Noir
