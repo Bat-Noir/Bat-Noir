@@ -18,6 +18,7 @@ Building my own music streaming app (Ant Tunes) because Spotify annoyed me.
 - Custom music streaming ecosystem
 - Scalable backend for fast search & streaming
 - More experimental projects coming soon...
+![Stats](https://github-readme-stats.vercel.app/api?username=Bat-Noir&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -31,7 +32,7 @@ Building my own music streaming app (Ant Tunes) because Spotify annoyed me.
 ## 🌐 Projects
 - 🎧 [Ant Tunes](https://github.com/Bat-Noir/ant-tunes-backend) — fast, lightweight, no-ads music app
 
-🧠 More projects coming soon...
+🧪 Experiments dropping soon...
 
 ---
 
